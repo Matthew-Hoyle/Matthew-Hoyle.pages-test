@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon_io">
-
 ## Bio
 
 Things about me here
