@@ -1,6 +1,8 @@
-title: Matthew Hoyle
+## Bio
 
-## Welcome to GitHub Pages
+Things about me here
+
+
 
 You can use the [editor on GitHub](https://github.com/Matthew-Hoyle/Matthew-Hoyle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
