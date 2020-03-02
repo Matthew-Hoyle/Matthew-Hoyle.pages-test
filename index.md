@@ -1,9 +1,8 @@
-[LinkedIn](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/)
-
 ## Bio
 
 Things about me here
 
+[LinkedIn](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
 
 
 You can use the [editor on GitHub](https://github.com/Matthew-Hoyle/Matthew-Hoyle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
