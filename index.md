@@ -4,7 +4,7 @@
 
 Things about me here
 
-[favicon.png](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
+[<link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png">](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
 
 
 You can use the [editor on GitHub](https://github.com/Matthew-Hoyle/Matthew-Hoyle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
