@@ -4,7 +4,7 @@
 
 Things about me here
 
-[![linkedin logo](linkedin-logo.png = 50x50)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
+[![linkedin logo](linkedin-logo.png | width = 50)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
 
 
 You can use the [editor on GitHub](https://github.com/Matthew-Hoyle/Matthew-Hoyle.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
