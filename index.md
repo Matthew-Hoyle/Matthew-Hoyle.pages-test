@@ -4,7 +4,7 @@
 
 Things about me here
 
-<img src="linkedin-logo.png" alt="alt text" width="50" height="50">
+![<img src="linkedin-logo.png" alt="alt text" width="50" height="50">](https:google.com)
 
 [![linkedin logo](Webp.net-resizeimage.jpg)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
 
