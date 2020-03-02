@@ -1,6 +1,4 @@
 theme: jekyll-theme-slate
 title: Matthew Hoyle
 
-[[menu.main]]
-      name = "Linkedin"
-      url = "https://www.linkedin.com/in/matthew-hoyle-0b33831a3/"
+(a link)[https://www.linkedin.com/in/matthew-hoyle-0b33831a3/]
