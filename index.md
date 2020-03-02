@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon-32x32.png">
+
 ## Bio
 
 Things about me here
