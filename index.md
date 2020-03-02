@@ -1,3 +1,5 @@
+[LinkedIn](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/)
+
 ## Bio
 
 Things about me here
