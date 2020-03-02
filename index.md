@@ -2,6 +2,8 @@
 
 [![linkedin logo](linkedin-logo-50.png)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [![handshake logo](Handshake-logo-50.png)](https://app.joinhandshake.com/users/6867578) [![github logo](github-icon-50.png)](https://github.com/Matthew-Hoyle)
 # [Resume](https://nbviewer.jupyter.org/github/Matthew-Hoyle/Matthew-Hoyle.github.io/blob/master/RESUME%20Spring%202020.pdf) 
+
+### Email: mhoyle2@illinois.edu
 ***
 
 ## Bio
