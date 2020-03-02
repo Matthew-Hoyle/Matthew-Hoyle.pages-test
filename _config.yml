@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 title: Matthew Hoyle
 hello.admin:
+  title: "click me!"
   url: https://www.youtube.com/watch?v=BA_c3bGQXlQ
+github:
+  is_project_page: false
