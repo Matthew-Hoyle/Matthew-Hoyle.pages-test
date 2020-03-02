@@ -1,4 +1,4 @@
-[![linkedin logo](linkedin-logo-50.png)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [![github logo](github-icon-50.png)](https://github.com/Matthew-Hoyle)
+[![linkedin logo](linkedin-logo-50.png)](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [![github logo](github-icon-50.png)](https://github.com/Matthew-Hoyle) [Resume](RESUME Spring 2020.pdf)
 
 ## Bio
 
