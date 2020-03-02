@@ -2,6 +2,8 @@
 # [Resume](https://nbviewer.jupyter.org/github/Matthew-Hoyle/Matthew-Hoyle.github.io/blob/master/RESUME%20Spring%202020.pdf) 
 ## Bio
 
+***
+
 Things about me here
 
 
