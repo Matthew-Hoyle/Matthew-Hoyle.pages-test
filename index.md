@@ -2,6 +2,8 @@
 
 ## Bio
 
+![yeet](favicon-32x32.png)
+
 Things about me here
 
 [LinkedIn](https://www.linkedin.com/in/matthew-hoyle-0b33831a3/) [Github](https://github.com/Matthew-Hoyle)
